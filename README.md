@@ -9,6 +9,7 @@ My version of the famous game "SpaceInvaders" using my game engine.
 * Download the entire repo and then Click on the **SpaceInvaders.exe** in the folder and start playing
 
 ## Rules, features, gameplay and controls:
+*'A' - Move left, 'D' - Move right, 'Spacebar' - shoot laser*
 * The user’s spaceship is the textured yellow ball, and it is controlled using ‘A’ and ‘D’ to move left or right.
 * The enemy spaceships (light-blue textured rectangles) will move from side to side and also gradually move downwards. It is a subtle movement that is evident when you play.
 * The enemy ships fire towards the user’s ship randomly after a few game loop iterations. When you collide with this orange bullet you lose the game.
