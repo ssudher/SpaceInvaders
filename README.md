@@ -6,7 +6,7 @@ My version of the famous game "SpaceInvaders" using my game engine.
 
 ## You want to try that game yourself?
 * Just download this repository - [SpaceInvaders](https://github.com/ssudher/SpaceInvaders)
-* Download the entire folder and then Click on the **SpaceInvaders.exe** in the folder and start playing
+* Download the entire repo and then Click on the **SpaceInvaders.exe** in the folder and start playing
 
 ## Rules, features, gameplay and controls:
 * The user’s spaceship is the textured yellow ball, and it is controlled using ‘A’ and ‘D’ to move left or right.
